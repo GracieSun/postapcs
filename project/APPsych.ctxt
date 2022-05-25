@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=APPsych
+comment1.params=
+comment1.target=void\ runQuiz()
+comment2.params=
+comment2.target=void\ setEqual()
+comment3.params=avoid
+comment3.target=void\ makeAns(Questions)
+comment4.params=
+comment4.target=void\ reviewAnswers()
+comment5.params=time\ numQues
+comment5.target=double\ realTestTime(double,\ int)
+comment6.params=
+comment6.target=void\ allTheTerms()
+comment7.params=
+comment7.target=void\ allTheLearnAndMemTerms()
+comment8.params=
+comment8.target=void\ allTheBrainPartTerms()
+comment9.params=array\ checkingTerm
+comment9.target=boolean\ checkContains(java.util.ArrayList,\ java.lang.String)
+numComments=10
